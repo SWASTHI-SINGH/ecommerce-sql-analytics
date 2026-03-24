@@ -1,3 +1,5 @@
+![Project Thumbnail](thumbnail.png)
+
 # E-commerce SQL Analytics Project
 
 ## Project Overview
