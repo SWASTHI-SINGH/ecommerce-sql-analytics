@@ -18,7 +18,7 @@ This project analyzes an e-commerce dataset using SQL to understand business per
 
 ## Dataset
 
-- Source: Olist Brazilian E-commerce Dataset (Kaggle)
+- Source: Olist Brazilian E-commerce Dataset (Kaggle)| https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce 
 
 ---Contains:
 ----100K+ orders
